@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    
+<color name="incoming">#0073ff</color>
+<color name="outgoing">#2fb7c3</color>
+<color name="missed">#ff2f2f</color>
+<string name="asc">升序</string>
+<string name="desc">降序</string>
+<string name="app">通话记录</string>
+<string name="no_data">最近三天后没有联系人通话时长达到一小时以上</string>
+<string name="no_data_contact">没有通话记录</string>
+</resources>
